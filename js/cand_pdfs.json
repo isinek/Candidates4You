@@ -1,0 +1,33 @@
+[
+	{
+		"category" : "Java Developers",
+		"candidates" : [
+			{"name": "CV - Senior Java Developer - No.0161", "pdf": "U2FsdGVkX18QE9wMMV+BJLejtw5PBY55r5wQ0TVqoSvhTUiRIirUUlSyWJAuJ4tKsH7qELEbu0KZckwoLaXb4w=="},
+			{"name": "CV - Senior Java Developer - No.0163", "pdf": "U2FsdGVkX181PrPl4jnhxmG4BMfSv43Bmzxc5/KqWFsVEs1CE8TII4TDxWoFpdRUD4dADVgGpxZYvSQqtC0c5A=="}			
+		]
+	},
+	{
+		"category" : ".Net developers",
+		"candidates" : [		
+			{"name": "CV - Senior .Net Developer - No.0162", "pdf": "U2FsdGVkX19DboWnMKcig4/KfztwqHaI9prQ+oVJ1+Vp5bRphaSbdzTd5VqbDA2z2OtN7rRl7Eq/BhLZxWsONw=="},
+			{"name": "CV - Senior .Net Developer - No.0164", "pdf": "U2FsdGVkX1/yjU91+FfTscvZUptikjgXFaWXHkoVF4YqAjC/LWPlTx3mJnKJ476TgjtB8YkgOp2WAP8IPc3xFw=="},
+			{"name": "CV - Senior .Net Developer - No.0165", "pdf": "U2FsdGVkX1/CHJBrVFrjTbfpoHQycIm/b5TylJJx9qRxTgXEm3cotknFG/uRuU/IT8GO+krQ2+H3nR8hTUR7PQ=="},
+			{"name": "CV - Senior .Net Developer - No.0166", "pdf": "U2FsdGVkX19285hOsyCJh8GzAmWa1zdRhd4QbG45T4sorDb8CNt/4WAZhJWcX8wkjF8V77qmAlF1nG0LAQrBnyvu0d+a98mWcjDyOkEjOQw="}			
+		]
+	},
+	{
+		"category" : "PHP developers",
+		"candidates" : [
+			{"name": "CV - Senior PHP Developer - No.0166", "pdf": "U2FsdGVkX19285hOsyCJh8GzAmWa1zdRhd4QbG45T4sorDb8CNt/4WAZhJWcX8wkjF8V77qmAlF1nG0LAQrBnyvu0d+a98mWcjDyOkEjOQw="}
+		]
+	},
+	{
+		"category" : "DWH/BI developers",
+		"candidates" : [
+			{"name": "CV - Senior DWH/BI Developer - No.0167", "pdf": "U2FsdGVkX19itNe8vERCJWFGu0L9OglCt3oWUX+cbukaGYWPrOcvF+uUb5kxCOp9P14CzN8LdcQTz9pEIuniBQ=="}
+		]
+	}
+	
+	
+	
+]
